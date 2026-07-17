@@ -90,7 +90,7 @@ flutter run
 ## Submission
 
 - GitHub repository: [GitHub](https://github.com/shikhar11x/flutter-JobListingApp)
-- Demo video: link to be added
+- Demo video: [DEMO VIDEO](https://drive.google.com/file/d/1NiVFASvnydTnvGiYtF0kFWfEibAyxmR2/view?usp=sharing)
 
 ## Author
 
