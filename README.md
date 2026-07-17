@@ -91,6 +91,7 @@ flutter run
 
 - GitHub repository: [GitHub](https://github.com/shikhar11x/flutter-JobListingApp)
 - Demo video: [DEMO VIDEO](https://drive.google.com/file/d/1NiVFASvnydTnvGiYtF0kFWfEibAyxmR2/view?usp=sharing)
+- APK- [APK](https://github.com/shikhar11x/flutter-JobListingApp/releases/tag/v-0.1)
 
 ## Author
 
