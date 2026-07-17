@@ -89,7 +89,7 @@ flutter run
 
 ## Submission
 
-- GitHub repository: link to be added
+- GitHub repository: [GitHub](https://github.com/shikhar11x/flutter-JobListingApp)
 - Demo video: link to be added
 
 ## Author
