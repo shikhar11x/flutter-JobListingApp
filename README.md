@@ -83,9 +83,9 @@ flutter run
 
 ## Screenshots
 
-| Home Screen | Archived Roles | Job Details |
-|---|---|---|
-| ![Home Screen](screenshots/home_screen.png) | ![Archived Roles](screenshots/archived_roles.png) | ![Job Details](screenshots/job_details.png) |
+| Home Screen | Archived Roles | Job Details | Job Details |
+|---|---|---|---|
+| ![Home Screen](Preview/home.jpeg) | ![Archived Roles](Preview/home2.jpeg) | ![Job Details](Preview/job.jpeg) | ![Job Details](Preview/job2.jpeg) |
 
 ## Submission
 
